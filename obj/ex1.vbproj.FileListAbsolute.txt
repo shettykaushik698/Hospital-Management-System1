@@ -1,0 +1,933 @@
+Y:\ex1\ex1\bin\Debug\ex1.exe
+Y:\ex1\ex1\bin\Debug\ex1.pdb
+Y:\ex1\ex1\bin\Debug\ex1.xml
+Y:\ex1\ex1\obj\Debug\ResolveAssemblyReference.cache
+Y:\ex1\ex1\obj\Debug\ex1.Resources.resources
+Y:\ex1\ex1\obj\Debug\ex1.vbproj.GenerateResource.Cache
+Y:\ex1\ex1\obj\Debug\ex1.exe
+Y:\ex1\ex1\obj\Debug\ex1.xml
+Y:\ex1\ex1\obj\Debug\ex1.pdb
+Y:\ex1\ex1\obj\Debug\ex1.fpassw.resources
+Y:\ex1\ex1\obj\Debug\ex1.admin.resources
+Y:\ex1\ex1\obj\Debug\ex1.adde.resources
+Y:\ex1\ex1\obj\Debug\ex1.login.resources
+Y:\ex1\ex1\bin\Debug\ex1.exe.config
+Y:\ex1\ex1\obj\Debug\ex1.accounts.resources
+Y:\ex1\ex1\obj\Debug\ex1.OP.resources
+Y:\ex1\ex1\obj\Debug\ex1.IP.resources
+Y:\ex1\ex1\obj\Debug\ex1.main.resources
+Y:\ex1\ex1\obj\Debug\ex1.newpw.resources
+Y:\ex1\ex1\obj\Debug\ex1.fblock.resources
+Y:\ex1\ex1\obj\Debug\ex1.fileentry.resources
+Y:\ex1\ex1\obj\Debug\ex1.apmts.resources
+Y:\ex1\ex1\obj\Debug\ex1.capmt.resources
+Y:\ex1\ex1\obj\Debug\ex1.cpass.resources
+Y:\ex1\ex1\obj\Debug\ex1.wardm.resources
+Y:\ex1\ex1\obj\Debug\ex1.pmaster.resources
+Y:\ex1\ex1\obj\Debug\ex1.labap.resources
+Y:\ex1\ex1\obj\Debug\ex1.labdis.resources
+Y:\ex1\ex1\obj\Debug\ex1.bedshift.resources
+Y:\ex1\ex1\obj\Debug\ex1.scan.resources
+Y:\ex1\ex1\obj\Debug\ex1.scandis.resources
+Y:\ex1\ex1\obj\Debug\ex1.Attend.resources
+Y:\ex1\ex1\obj\Debug\ex1.advance.resources
+Y:\ex1\ex1\obj\Debug\ex1.salarycal.resources
+Y:\ex1\ex1\obj\Debug\ex1.Resign.resources
+Y:\ex1\ex1\obj\Debug\ex1.empdetails.resources
+Y:\ex1\ex1\obj\Debug\ex1.payslip.resources
+Y:\ex1\ex1\obj\Debug\ex1.wardview.resources
+E:\bca6thsem\project\ex1\ex1\bin\Debug\ex1.exe.config
+E:\bca6thsem\project\ex1\ex1\obj\Debug\ex1.exe
+E:\bca6thsem\project\ex1\ex1\obj\Debug\ex1.xml
+E:\bca6thsem\project\ex1\ex1\obj\Debug\ex1.pdb
+E:\bca6thsem\project\ex1\ex1\bin\Debug\ex1.exe
+E:\bca6thsem\project\ex1\ex1\bin\Debug\ex1.pdb
+E:\bca6thsem\project\ex1\ex1\bin\Debug\ex1.xml
+E:\bca6thsem\project\ex1\ex1\obj\Debug\ResolveAssemblyReference.cache
+E:\bca6thsem\project\ex1\ex1\obj\Debug\ex1.accounts.resources
+E:\bca6thsem\project\ex1\ex1\obj\Debug\ex1.adde.resources
+E:\bca6thsem\project\ex1\ex1\obj\Debug\ex1.admin.resources
+E:\bca6thsem\project\ex1\ex1\obj\Debug\ex1.advance.resources
+E:\bca6thsem\project\ex1\ex1\obj\Debug\ex1.apmts.resources
+E:\bca6thsem\project\ex1\ex1\obj\Debug\ex1.Attend.resources
+E:\bca6thsem\project\ex1\ex1\obj\Debug\ex1.bedshift.resources
+E:\bca6thsem\project\ex1\ex1\obj\Debug\ex1.capmt.resources
+E:\bca6thsem\project\ex1\ex1\obj\Debug\ex1.cpass.resources
+E:\bca6thsem\project\ex1\ex1\obj\Debug\ex1.empdetails.resources
+E:\bca6thsem\project\ex1\ex1\obj\Debug\ex1.fblock.resources
+E:\bca6thsem\project\ex1\ex1\obj\Debug\ex1.fileentry.resources
+E:\bca6thsem\project\ex1\ex1\obj\Debug\ex1.IP.resources
+E:\bca6thsem\project\ex1\ex1\obj\Debug\ex1.labap.resources
+E:\bca6thsem\project\ex1\ex1\obj\Debug\ex1.labdis.resources
+E:\bca6thsem\project\ex1\ex1\obj\Debug\ex1.load.resources
+E:\bca6thsem\project\ex1\ex1\obj\Debug\ex1.login.resources
+E:\bca6thsem\project\ex1\ex1\obj\Debug\ex1.main.resources
+E:\bca6thsem\project\ex1\ex1\obj\Debug\ex1.newpw.resources
+E:\bca6thsem\project\ex1\ex1\obj\Debug\ex1.OP.resources
+E:\bca6thsem\project\ex1\ex1\obj\Debug\ex1.fpassw.resources
+E:\bca6thsem\project\ex1\ex1\obj\Debug\ex1.Resources.resources
+E:\bca6thsem\project\ex1\ex1\obj\Debug\ex1.payslip.resources
+E:\bca6thsem\project\ex1\ex1\obj\Debug\ex1.pmaster.resources
+E:\bca6thsem\project\ex1\ex1\obj\Debug\ex1.Resign.resources
+E:\bca6thsem\project\ex1\ex1\obj\Debug\ex1.salarycal.resources
+E:\bca6thsem\project\ex1\ex1\obj\Debug\ex1.scan.resources
+E:\bca6thsem\project\ex1\ex1\obj\Debug\ex1.scandis.resources
+E:\bca6thsem\project\ex1\ex1\obj\Debug\ex1.treatment.resources
+E:\bca6thsem\project\ex1\ex1\obj\Debug\ex1.wardm.resources
+E:\bca6thsem\project\ex1\ex1\obj\Debug\ex1.wardview.resources
+E:\bca6thsem\project\ex1\ex1\obj\Debug\ex1.vbproj.GenerateResource.Cache
+Y:\ex1\ex1\obj\Debug\ex1.treatment.resources
+Y:\ex1\ex1\obj\Debug\ex1.labreport.resources
+Y:\ex1\ex1\obj\Debug\ex1.scanreport.resources
+E:\bca6thsem\project\ex1\ex1\obj\Debug\ex1.dischargesummary.resources
+E:\bca6thsem\project\ex1\ex1\obj\Debug\ex1.labreport.resources
+E:\bca6thsem\project\ex1\ex1\obj\Debug\ex1.scanreport.resources
+E:\bca6thsem\project\ex1\ex1\obj\Debug\ex1.opbill.resources
+Y:\ex1\ex1\obj\Debug\ex1.dischargesummary.resources
+Y:\ex1\ex1\obj\Debug\ex1.opbill.resources
+Y:\ex1\ex1\obj\Debug\ex1.loadp.resources
+E:\14-3-19\ex1\ex1\bin\Debug\ex1.exe.config
+E:\14-3-19\ex1\ex1\obj\Debug\ex1.exe
+E:\14-3-19\ex1\ex1\obj\Debug\ex1.xml
+E:\14-3-19\ex1\ex1\obj\Debug\ex1.pdb
+E:\14-3-19\ex1\ex1\bin\Debug\ex1.exe
+E:\14-3-19\ex1\ex1\bin\Debug\ex1.pdb
+E:\14-3-19\ex1\ex1\bin\Debug\ex1.xml
+E:\14-3-19\ex1\ex1\obj\Debug\ResolveAssemblyReference.cache
+E:\14-3-19\ex1\ex1\obj\Debug\ex1.accounts.resources
+E:\14-3-19\ex1\ex1\obj\Debug\ex1.adde.resources
+E:\14-3-19\ex1\ex1\obj\Debug\ex1.admin.resources
+E:\14-3-19\ex1\ex1\obj\Debug\ex1.advance.resources
+E:\14-3-19\ex1\ex1\obj\Debug\ex1.apmts.resources
+E:\14-3-19\ex1\ex1\obj\Debug\ex1.Attend.resources
+E:\14-3-19\ex1\ex1\obj\Debug\ex1.bedshift.resources
+E:\14-3-19\ex1\ex1\obj\Debug\ex1.capmt.resources
+E:\14-3-19\ex1\ex1\obj\Debug\ex1.cpass.resources
+E:\14-3-19\ex1\ex1\obj\Debug\ex1.dischargesummary.resources
+E:\14-3-19\ex1\ex1\obj\Debug\ex1.empdetails.resources
+E:\14-3-19\ex1\ex1\obj\Debug\ex1.fblock.resources
+E:\14-3-19\ex1\ex1\obj\Debug\ex1.fileentry.resources
+E:\14-3-19\ex1\ex1\obj\Debug\ex1.IP.resources
+E:\14-3-19\ex1\ex1\obj\Debug\ex1.labap.resources
+E:\14-3-19\ex1\ex1\obj\Debug\ex1.labdis.resources
+E:\14-3-19\ex1\ex1\obj\Debug\ex1.labreport.resources
+E:\14-3-19\ex1\ex1\obj\Debug\ex1.loadp.resources
+E:\14-3-19\ex1\ex1\obj\Debug\ex1.login.resources
+E:\14-3-19\ex1\ex1\obj\Debug\ex1.main.resources
+E:\14-3-19\ex1\ex1\obj\Debug\ex1.newpw.resources
+E:\14-3-19\ex1\ex1\obj\Debug\ex1.OP.resources
+E:\14-3-19\ex1\ex1\obj\Debug\ex1.fpassw.resources
+E:\14-3-19\ex1\ex1\obj\Debug\ex1.Resources.resources
+E:\14-3-19\ex1\ex1\obj\Debug\ex1.opbill.resources
+E:\14-3-19\ex1\ex1\obj\Debug\ex1.payslip.resources
+E:\14-3-19\ex1\ex1\obj\Debug\ex1.pmaster.resources
+E:\14-3-19\ex1\ex1\obj\Debug\ex1.Resign.resources
+E:\14-3-19\ex1\ex1\obj\Debug\ex1.salarycal.resources
+E:\14-3-19\ex1\ex1\obj\Debug\ex1.scan.resources
+E:\14-3-19\ex1\ex1\obj\Debug\ex1.scandis.resources
+E:\14-3-19\ex1\ex1\obj\Debug\ex1.scanreport.resources
+E:\14-3-19\ex1\ex1\obj\Debug\ex1.treatment.resources
+E:\14-3-19\ex1\ex1\obj\Debug\ex1.wardm.resources
+E:\14-3-19\ex1\ex1\obj\Debug\ex1.wardview.resources
+E:\14-3-19\ex1\ex1\obj\Debug\ex1.vbproj.GenerateResource.Cache
+E:\bca6thsem\15thmarch\ex1\ex1\bin\Debug\ex1.exe.config
+E:\bca6thsem\15thmarch\ex1\ex1\obj\Debug\ex1.exe
+E:\bca6thsem\15thmarch\ex1\ex1\obj\Debug\ex1.xml
+E:\bca6thsem\15thmarch\ex1\ex1\obj\Debug\ex1.pdb
+E:\bca6thsem\15thmarch\ex1\ex1\bin\Debug\ex1.exe
+E:\bca6thsem\15thmarch\ex1\ex1\bin\Debug\ex1.pdb
+E:\bca6thsem\15thmarch\ex1\ex1\bin\Debug\ex1.xml
+E:\bca6thsem\15thmarch\ex1\ex1\obj\Debug\ResolveAssemblyReference.cache
+E:\bca6thsem\15thmarch\ex1\ex1\obj\Debug\ex1.accounts.resources
+E:\bca6thsem\15thmarch\ex1\ex1\obj\Debug\ex1.adde.resources
+E:\bca6thsem\15thmarch\ex1\ex1\obj\Debug\ex1.admin.resources
+E:\bca6thsem\15thmarch\ex1\ex1\obj\Debug\ex1.advance.resources
+E:\bca6thsem\15thmarch\ex1\ex1\obj\Debug\ex1.apmts.resources
+E:\bca6thsem\15thmarch\ex1\ex1\obj\Debug\ex1.Attend.resources
+E:\bca6thsem\15thmarch\ex1\ex1\obj\Debug\ex1.bedshift.resources
+E:\bca6thsem\15thmarch\ex1\ex1\obj\Debug\ex1.capmt.resources
+E:\bca6thsem\15thmarch\ex1\ex1\obj\Debug\ex1.cpass.resources
+E:\bca6thsem\15thmarch\ex1\ex1\obj\Debug\ex1.dischargesummary.resources
+E:\bca6thsem\15thmarch\ex1\ex1\obj\Debug\ex1.empdetails.resources
+E:\bca6thsem\15thmarch\ex1\ex1\obj\Debug\ex1.fblock.resources
+E:\bca6thsem\15thmarch\ex1\ex1\obj\Debug\ex1.fileentry.resources
+E:\bca6thsem\15thmarch\ex1\ex1\obj\Debug\ex1.IP.resources
+E:\bca6thsem\15thmarch\ex1\ex1\obj\Debug\ex1.labap.resources
+E:\bca6thsem\15thmarch\ex1\ex1\obj\Debug\ex1.labdis.resources
+E:\bca6thsem\15thmarch\ex1\ex1\obj\Debug\ex1.labreport.resources
+E:\bca6thsem\15thmarch\ex1\ex1\obj\Debug\ex1.loadp.resources
+E:\bca6thsem\15thmarch\ex1\ex1\obj\Debug\ex1.login.resources
+E:\bca6thsem\15thmarch\ex1\ex1\obj\Debug\ex1.main.resources
+E:\bca6thsem\15thmarch\ex1\ex1\obj\Debug\ex1.newpw.resources
+E:\bca6thsem\15thmarch\ex1\ex1\obj\Debug\ex1.OP.resources
+E:\bca6thsem\15thmarch\ex1\ex1\obj\Debug\ex1.fpassw.resources
+E:\bca6thsem\15thmarch\ex1\ex1\obj\Debug\ex1.Resources.resources
+E:\bca6thsem\15thmarch\ex1\ex1\obj\Debug\ex1.opbill.resources
+E:\bca6thsem\15thmarch\ex1\ex1\obj\Debug\ex1.payslip.resources
+E:\bca6thsem\15thmarch\ex1\ex1\obj\Debug\ex1.pmaster.resources
+E:\bca6thsem\15thmarch\ex1\ex1\obj\Debug\ex1.Resign.resources
+E:\bca6thsem\15thmarch\ex1\ex1\obj\Debug\ex1.salarycal.resources
+E:\bca6thsem\15thmarch\ex1\ex1\obj\Debug\ex1.scan.resources
+E:\bca6thsem\15thmarch\ex1\ex1\obj\Debug\ex1.scandis.resources
+E:\bca6thsem\15thmarch\ex1\ex1\obj\Debug\ex1.scanreport.resources
+E:\bca6thsem\15thmarch\ex1\ex1\obj\Debug\ex1.treatment.resources
+E:\bca6thsem\15thmarch\ex1\ex1\obj\Debug\ex1.wardm.resources
+E:\bca6thsem\15thmarch\ex1\ex1\obj\Debug\ex1.wardview.resources
+E:\bca6thsem\15thmarch\ex1\ex1\obj\Debug\ex1.vbproj.GenerateResource.Cache
+E:\bca6thsem\18thmarch\ex1\ex1\bin\Debug\ex1.exe.config
+E:\bca6thsem\18thmarch\ex1\ex1\obj\Debug\ex1.exe
+E:\bca6thsem\18thmarch\ex1\ex1\obj\Debug\ex1.xml
+E:\bca6thsem\18thmarch\ex1\ex1\obj\Debug\ex1.pdb
+E:\bca6thsem\18thmarch\ex1\ex1\bin\Debug\ex1.exe
+E:\bca6thsem\18thmarch\ex1\ex1\bin\Debug\ex1.pdb
+E:\bca6thsem\18thmarch\ex1\ex1\bin\Debug\ex1.xml
+E:\bca6thsem\18thmarch\ex1\ex1\obj\Debug\ResolveAssemblyReference.cache
+E:\bca6thsem\18thmarch\ex1\ex1\obj\Debug\ex1.accounts.resources
+E:\bca6thsem\18thmarch\ex1\ex1\obj\Debug\ex1.adde.resources
+E:\bca6thsem\18thmarch\ex1\ex1\obj\Debug\ex1.admin.resources
+E:\bca6thsem\18thmarch\ex1\ex1\obj\Debug\ex1.advance.resources
+E:\bca6thsem\18thmarch\ex1\ex1\obj\Debug\ex1.apmts.resources
+E:\bca6thsem\18thmarch\ex1\ex1\obj\Debug\ex1.Attend.resources
+E:\bca6thsem\18thmarch\ex1\ex1\obj\Debug\ex1.bedshift.resources
+E:\bca6thsem\18thmarch\ex1\ex1\obj\Debug\ex1.capmt.resources
+E:\bca6thsem\18thmarch\ex1\ex1\obj\Debug\ex1.cpass.resources
+E:\bca6thsem\18thmarch\ex1\ex1\obj\Debug\ex1.dischargesummary.resources
+E:\bca6thsem\18thmarch\ex1\ex1\obj\Debug\ex1.empdetails.resources
+E:\bca6thsem\18thmarch\ex1\ex1\obj\Debug\ex1.fblock.resources
+E:\bca6thsem\18thmarch\ex1\ex1\obj\Debug\ex1.fileentry.resources
+E:\bca6thsem\18thmarch\ex1\ex1\obj\Debug\ex1.IP.resources
+E:\bca6thsem\18thmarch\ex1\ex1\obj\Debug\ex1.labap.resources
+E:\bca6thsem\18thmarch\ex1\ex1\obj\Debug\ex1.labdis.resources
+E:\bca6thsem\18thmarch\ex1\ex1\obj\Debug\ex1.labreport.resources
+E:\bca6thsem\18thmarch\ex1\ex1\obj\Debug\ex1.loadp.resources
+E:\bca6thsem\18thmarch\ex1\ex1\obj\Debug\ex1.login.resources
+E:\bca6thsem\18thmarch\ex1\ex1\obj\Debug\ex1.main.resources
+E:\bca6thsem\18thmarch\ex1\ex1\obj\Debug\ex1.newpw.resources
+E:\bca6thsem\18thmarch\ex1\ex1\obj\Debug\ex1.OP.resources
+E:\bca6thsem\18thmarch\ex1\ex1\obj\Debug\ex1.fpassw.resources
+E:\bca6thsem\18thmarch\ex1\ex1\obj\Debug\ex1.Resources.resources
+E:\bca6thsem\18thmarch\ex1\ex1\obj\Debug\ex1.opbill.resources
+E:\bca6thsem\18thmarch\ex1\ex1\obj\Debug\ex1.payslip.resources
+E:\bca6thsem\18thmarch\ex1\ex1\obj\Debug\ex1.pmaster.resources
+E:\bca6thsem\18thmarch\ex1\ex1\obj\Debug\ex1.Resign.resources
+E:\bca6thsem\18thmarch\ex1\ex1\obj\Debug\ex1.salarycal.resources
+E:\bca6thsem\18thmarch\ex1\ex1\obj\Debug\ex1.scan.resources
+E:\bca6thsem\18thmarch\ex1\ex1\obj\Debug\ex1.scandis.resources
+E:\bca6thsem\18thmarch\ex1\ex1\obj\Debug\ex1.scanreport.resources
+E:\bca6thsem\18thmarch\ex1\ex1\obj\Debug\ex1.treatment.resources
+E:\bca6thsem\18thmarch\ex1\ex1\obj\Debug\ex1.wardm.resources
+E:\bca6thsem\18thmarch\ex1\ex1\obj\Debug\ex1.wardview.resources
+E:\bca6thsem\18thmarch\ex1\ex1\obj\Debug\ex1.vbproj.GenerateResource.Cache
+Y:\ex1\ex1\obj\Debug\ex1.Form1.resources
+Y:\ex1\ex1\obj\Debug\ex1.lab rport.rpt
+Y:\ex1\ex1\obj\Debug\ex1.opbillreport.rpt
+Y:\ex1\ex1\obj\Debug\ex1.opbillview.resources
+Y:\ex1\ex1\obj\Debug\ex1.ipbill.resources
+Y:\ex1\ex1\obj\Debug\ex1.wardbs.resources
+E:\bca6thsem\21 march\ex1\ex1\bin\Debug\ex1.exe.config
+E:\bca6thsem\21 march\ex1\ex1\obj\Debug\ex1.xml
+E:\bca6thsem\21 march\ex1\ex1\obj\Debug\ex1.pdb
+E:\bca6thsem\21 march\ex1\ex1\obj\Debug\ResolveAssemblyReference.cache
+E:\bca6thsem\21 march\ex1\ex1\obj\Debug\ex1.lab rport.rpt
+E:\bca6thsem\21 march\ex1\ex1\obj\Debug\ex1.opbillreport.rpt
+E:\bca6thsem\21 march\ex1\ex1\obj\Debug\ex1.accounts.resources
+E:\bca6thsem\21 march\ex1\ex1\obj\Debug\ex1.adde.resources
+E:\bca6thsem\21 march\ex1\ex1\obj\Debug\ex1.admin.resources
+E:\bca6thsem\21 march\ex1\ex1\obj\Debug\ex1.advance.resources
+E:\bca6thsem\21 march\ex1\ex1\obj\Debug\ex1.apmts.resources
+E:\bca6thsem\21 march\ex1\ex1\obj\Debug\ex1.Attend.resources
+E:\bca6thsem\21 march\ex1\ex1\obj\Debug\ex1.bedshift.resources
+E:\bca6thsem\21 march\ex1\ex1\obj\Debug\ex1.capmt.resources
+E:\bca6thsem\21 march\ex1\ex1\obj\Debug\ex1.cpass.resources
+E:\bca6thsem\21 march\ex1\ex1\obj\Debug\ex1.dischargesummary.resources
+E:\bca6thsem\21 march\ex1\ex1\obj\Debug\ex1.empdetails.resources
+E:\bca6thsem\21 march\ex1\ex1\obj\Debug\ex1.fblock.resources
+E:\bca6thsem\21 march\ex1\ex1\obj\Debug\ex1.fileentry.resources
+E:\bca6thsem\21 march\ex1\ex1\obj\Debug\ex1.Form1.resources
+E:\bca6thsem\21 march\ex1\ex1\obj\Debug\ex1.IP.resources
+E:\bca6thsem\21 march\ex1\ex1\obj\Debug\ex1.ipbill.resources
+E:\bca6thsem\21 march\ex1\ex1\obj\Debug\ex1.labap.resources
+E:\bca6thsem\21 march\ex1\ex1\obj\Debug\ex1.labdis.resources
+E:\bca6thsem\21 march\ex1\ex1\obj\Debug\ex1.labreport.resources
+E:\bca6thsem\21 march\ex1\ex1\obj\Debug\ex1.loadp.resources
+E:\bca6thsem\21 march\ex1\ex1\obj\Debug\ex1.login.resources
+E:\bca6thsem\21 march\ex1\ex1\obj\Debug\ex1.main.resources
+E:\bca6thsem\21 march\ex1\ex1\obj\Debug\ex1.newpw.resources
+E:\bca6thsem\21 march\ex1\ex1\obj\Debug\ex1.OP.resources
+E:\bca6thsem\21 march\ex1\ex1\obj\Debug\ex1.fpassw.resources
+E:\bca6thsem\21 march\ex1\ex1\obj\Debug\ex1.Resources.resources
+E:\bca6thsem\21 march\ex1\ex1\obj\Debug\ex1.opbill.resources
+E:\bca6thsem\21 march\ex1\ex1\obj\Debug\ex1.opbillview.resources
+E:\bca6thsem\21 march\ex1\ex1\obj\Debug\ex1.payslip.resources
+E:\bca6thsem\21 march\ex1\ex1\obj\Debug\ex1.pmaster.resources
+E:\bca6thsem\21 march\ex1\ex1\obj\Debug\ex1.Resign.resources
+E:\bca6thsem\21 march\ex1\ex1\obj\Debug\ex1.salarycal.resources
+E:\bca6thsem\21 march\ex1\ex1\obj\Debug\ex1.scan.resources
+E:\bca6thsem\21 march\ex1\ex1\obj\Debug\ex1.scandis.resources
+E:\bca6thsem\21 march\ex1\ex1\obj\Debug\ex1.scanreport.resources
+E:\bca6thsem\21 march\ex1\ex1\obj\Debug\ex1.treatdetails.resources
+E:\bca6thsem\21 march\ex1\ex1\obj\Debug\ex1.treatment.resources
+E:\bca6thsem\21 march\ex1\ex1\obj\Debug\ex1.wardbs.resources
+E:\bca6thsem\21 march\ex1\ex1\obj\Debug\ex1.wardm.resources
+E:\bca6thsem\21 march\ex1\ex1\obj\Debug\ex1.wardview.resources
+E:\bca6thsem\21 march\ex1\ex1\obj\Debug\ex1.vbproj.GenerateResource.Cache
+E:\bca6thsem\21 march\ex1\ex1\bin\Debug\ex1.exe
+E:\bca6thsem\21 march\ex1\ex1\bin\Debug\ex1.pdb
+E:\bca6thsem\21 march\ex1\ex1\bin\Debug\ex1.xml
+E:\bca6thsem\21 march\ex1\ex1\obj\Debug\ex1.exe
+E:\bca6thsem\21 march\ex1\ex1\obj\Debug\ex1.addward.resources
+Y:\22 march\ex1\ex1\bin\Debug\ex1.exe.config
+Y:\22 march\ex1\ex1\obj\Debug\ex1.exe
+Y:\22 march\ex1\ex1\obj\Debug\ex1.xml
+Y:\22 march\ex1\ex1\obj\Debug\ex1.pdb
+Y:\22 march\ex1\ex1\bin\Debug\ex1.exe
+Y:\22 march\ex1\ex1\bin\Debug\ex1.pdb
+Y:\22 march\ex1\ex1\bin\Debug\ex1.xml
+Y:\22 march\ex1\ex1\obj\Debug\ResolveAssemblyReference.cache
+Y:\22 march\ex1\ex1\obj\Debug\ex1.lab rport.rpt
+Y:\22 march\ex1\ex1\obj\Debug\ex1.opbillreport.rpt
+Y:\22 march\ex1\ex1\obj\Debug\ex1.accounts.resources
+Y:\22 march\ex1\ex1\obj\Debug\ex1.adde.resources
+Y:\22 march\ex1\ex1\obj\Debug\ex1.addward.resources
+Y:\22 march\ex1\ex1\obj\Debug\ex1.admin.resources
+Y:\22 march\ex1\ex1\obj\Debug\ex1.advance.resources
+Y:\22 march\ex1\ex1\obj\Debug\ex1.apmts.resources
+Y:\22 march\ex1\ex1\obj\Debug\ex1.Attend.resources
+Y:\22 march\ex1\ex1\obj\Debug\ex1.bedshift.resources
+Y:\22 march\ex1\ex1\obj\Debug\ex1.capmt.resources
+Y:\22 march\ex1\ex1\obj\Debug\ex1.cpass.resources
+Y:\22 march\ex1\ex1\obj\Debug\ex1.dischargesummary.resources
+Y:\22 march\ex1\ex1\obj\Debug\ex1.empdetails.resources
+Y:\22 march\ex1\ex1\obj\Debug\ex1.fblock.resources
+Y:\22 march\ex1\ex1\obj\Debug\ex1.fileentry.resources
+Y:\22 march\ex1\ex1\obj\Debug\ex1.Form1.resources
+Y:\22 march\ex1\ex1\obj\Debug\ex1.IP.resources
+Y:\22 march\ex1\ex1\obj\Debug\ex1.ipbill.resources
+Y:\22 march\ex1\ex1\obj\Debug\ex1.labap.resources
+Y:\22 march\ex1\ex1\obj\Debug\ex1.labdis.resources
+Y:\22 march\ex1\ex1\obj\Debug\ex1.labreport.resources
+Y:\22 march\ex1\ex1\obj\Debug\ex1.loadp.resources
+Y:\22 march\ex1\ex1\obj\Debug\ex1.login.resources
+Y:\22 march\ex1\ex1\obj\Debug\ex1.main.resources
+Y:\22 march\ex1\ex1\obj\Debug\ex1.newpw.resources
+Y:\22 march\ex1\ex1\obj\Debug\ex1.OP.resources
+Y:\22 march\ex1\ex1\obj\Debug\ex1.fpassw.resources
+Y:\22 march\ex1\ex1\obj\Debug\ex1.Resources.resources
+Y:\22 march\ex1\ex1\obj\Debug\ex1.opbill.resources
+Y:\22 march\ex1\ex1\obj\Debug\ex1.opbillview.resources
+Y:\22 march\ex1\ex1\obj\Debug\ex1.payslip.resources
+Y:\22 march\ex1\ex1\obj\Debug\ex1.pmaster.resources
+Y:\22 march\ex1\ex1\obj\Debug\ex1.Resign.resources
+Y:\22 march\ex1\ex1\obj\Debug\ex1.salarycal.resources
+Y:\22 march\ex1\ex1\obj\Debug\ex1.scan.resources
+Y:\22 march\ex1\ex1\obj\Debug\ex1.scandis.resources
+Y:\22 march\ex1\ex1\obj\Debug\ex1.scanreport.resources
+Y:\22 march\ex1\ex1\obj\Debug\ex1.treatdetails.resources
+Y:\22 march\ex1\ex1\obj\Debug\ex1.treatment.resources
+Y:\22 march\ex1\ex1\obj\Debug\ex1.wardbs.resources
+Y:\22 march\ex1\ex1\obj\Debug\ex1.wardm.resources
+Y:\22 march\ex1\ex1\obj\Debug\ex1.wardview.resources
+Y:\22 march\ex1\ex1\obj\Debug\ex1.vbproj.GenerateResource.Cache
+Y:\ex1\ex1\obj\Debug\ex1.addward.resources
+Y:\ex1\ex1\obj\Debug\ex1.treatdetails.resources
+E:\bca6thsem\22 march\ex1\ex1\bin\Debug\ex1.exe.config
+E:\bca6thsem\22 march\ex1\ex1\obj\Debug\ex1.exe
+E:\bca6thsem\22 march\ex1\ex1\obj\Debug\ex1.xml
+E:\bca6thsem\22 march\ex1\ex1\obj\Debug\ex1.pdb
+E:\bca6thsem\22 march\ex1\ex1\obj\Debug\ResolveAssemblyReference.cache
+E:\bca6thsem\22 march\ex1\ex1\obj\Debug\ex1.lab rport.rpt
+E:\bca6thsem\22 march\ex1\ex1\obj\Debug\ex1.opbillreport.rpt
+E:\bca6thsem\22 march\ex1\ex1\obj\Debug\ex1.accounts.resources
+E:\bca6thsem\22 march\ex1\ex1\obj\Debug\ex1.adde.resources
+E:\bca6thsem\22 march\ex1\ex1\obj\Debug\ex1.addward.resources
+E:\bca6thsem\22 march\ex1\ex1\obj\Debug\ex1.admin.resources
+E:\bca6thsem\22 march\ex1\ex1\obj\Debug\ex1.advance.resources
+E:\bca6thsem\22 march\ex1\ex1\obj\Debug\ex1.apmts.resources
+E:\bca6thsem\22 march\ex1\ex1\obj\Debug\ex1.Attend.resources
+E:\bca6thsem\22 march\ex1\ex1\obj\Debug\ex1.bedshift.resources
+E:\bca6thsem\22 march\ex1\ex1\obj\Debug\ex1.capmt.resources
+E:\bca6thsem\22 march\ex1\ex1\obj\Debug\ex1.cpass.resources
+E:\bca6thsem\22 march\ex1\ex1\obj\Debug\ex1.dischargesummary.resources
+E:\bca6thsem\22 march\ex1\ex1\obj\Debug\ex1.empdetails.resources
+E:\bca6thsem\22 march\ex1\ex1\obj\Debug\ex1.fblock.resources
+E:\bca6thsem\22 march\ex1\ex1\obj\Debug\ex1.fileentry.resources
+E:\bca6thsem\22 march\ex1\ex1\obj\Debug\ex1.Form1.resources
+E:\bca6thsem\22 march\ex1\ex1\obj\Debug\ex1.IP.resources
+E:\bca6thsem\22 march\ex1\ex1\obj\Debug\ex1.ipbill.resources
+E:\bca6thsem\22 march\ex1\ex1\obj\Debug\ex1.labap.resources
+E:\bca6thsem\22 march\ex1\ex1\obj\Debug\ex1.labdis.resources
+E:\bca6thsem\22 march\ex1\ex1\obj\Debug\ex1.labreport.resources
+E:\bca6thsem\22 march\ex1\ex1\obj\Debug\ex1.loadp.resources
+E:\bca6thsem\22 march\ex1\ex1\obj\Debug\ex1.login.resources
+E:\bca6thsem\22 march\ex1\ex1\obj\Debug\ex1.main.resources
+E:\bca6thsem\22 march\ex1\ex1\obj\Debug\ex1.newpw.resources
+E:\bca6thsem\22 march\ex1\ex1\obj\Debug\ex1.OP.resources
+E:\bca6thsem\22 march\ex1\ex1\obj\Debug\ex1.fpassw.resources
+E:\bca6thsem\22 march\ex1\ex1\obj\Debug\ex1.Resources.resources
+E:\bca6thsem\22 march\ex1\ex1\obj\Debug\ex1.opbill.resources
+E:\bca6thsem\22 march\ex1\ex1\obj\Debug\ex1.opbillview.resources
+E:\bca6thsem\22 march\ex1\ex1\obj\Debug\ex1.payslip.resources
+E:\bca6thsem\22 march\ex1\ex1\obj\Debug\ex1.pmaster.resources
+E:\bca6thsem\22 march\ex1\ex1\obj\Debug\ex1.Resign.resources
+E:\bca6thsem\22 march\ex1\ex1\obj\Debug\ex1.salarycal.resources
+E:\bca6thsem\22 march\ex1\ex1\obj\Debug\ex1.scan.resources
+E:\bca6thsem\22 march\ex1\ex1\obj\Debug\ex1.scandis.resources
+E:\bca6thsem\22 march\ex1\ex1\obj\Debug\ex1.scanreport.resources
+E:\bca6thsem\22 march\ex1\ex1\obj\Debug\ex1.treatdetails.resources
+E:\bca6thsem\22 march\ex1\ex1\obj\Debug\ex1.treatment.resources
+E:\bca6thsem\22 march\ex1\ex1\obj\Debug\ex1.wardbs.resources
+E:\bca6thsem\22 march\ex1\ex1\obj\Debug\ex1.wardm.resources
+E:\bca6thsem\22 march\ex1\ex1\obj\Debug\ex1.wardview.resources
+E:\bca6thsem\22 march\ex1\ex1\obj\Debug\ex1.vbproj.GenerateResource.Cache
+E:\bca6thsem\22 march\ex1\ex1\bin\Debug\ex1.exe
+E:\bca6thsem\22 march\ex1\ex1\bin\Debug\ex1.pdb
+E:\bca6thsem\22 march\ex1\ex1\bin\Debug\ex1.xml
+Y:\ex1\ex1\obj\Debug\ex1.ipbillreport.rpt
+Y:\ex1\ex1\obj\Debug\ex1.ipbillview.resources
+Y:\ex1\ex1\obj\Debug\ex1.dsview.resources
+E:\bca6thsem\23 march\ex1\ex1\bin\Debug\ex1.exe.config
+E:\bca6thsem\23 march\ex1\ex1\obj\Debug\ex1.exe
+E:\bca6thsem\23 march\ex1\ex1\obj\Debug\ex1.xml
+E:\bca6thsem\23 march\ex1\ex1\obj\Debug\ex1.pdb
+Y:\ex1\ex1\obj\Debug\ex1.dsreport.rpt
+Y:\ex1\ex1\obj\Debug\ex1.labbill.resources
+Y:\ex1\ex1\obj\Debug\ex1.labbillreport.rpt
+Y:\ex1\ex1\obj\Debug\ex1.scanbill.resources
+Y:\ex1\ex1\obj\Debug\ex1.labreportview.resources
+E:\bca6thsem\27 march\ex1\ex1\bin\Debug\ex1.exe.config
+E:\bca6thsem\27 march\ex1\ex1\obj\Debug\ex1.exe
+E:\bca6thsem\27 march\ex1\ex1\obj\Debug\ex1.xml
+E:\bca6thsem\27 march\ex1\ex1\obj\Debug\ex1.pdb
+E:\bca6thsem\27 march\ex1\ex1\bin\Debug\ex1.exe
+E:\bca6thsem\27 march\ex1\ex1\bin\Debug\ex1.pdb
+E:\bca6thsem\27 march\ex1\ex1\bin\Debug\ex1.xml
+E:\bca6thsem\27 march\ex1\ex1\obj\Debug\ResolveAssemblyReference.cache
+E:\bca6thsem\27 march\ex1\ex1\obj\Debug\ex1.dsreport.rpt
+E:\bca6thsem\27 march\ex1\ex1\obj\Debug\ex1.ipbillreport.rpt
+E:\bca6thsem\27 march\ex1\ex1\obj\Debug\ex1.lab rport.rpt
+E:\bca6thsem\27 march\ex1\ex1\obj\Debug\ex1.labbillreport.rpt
+E:\bca6thsem\27 march\ex1\ex1\obj\Debug\ex1.opbillreport.rpt
+E:\bca6thsem\27 march\ex1\ex1\obj\Debug\ex1.accounts.resources
+E:\bca6thsem\27 march\ex1\ex1\obj\Debug\ex1.adde.resources
+E:\bca6thsem\27 march\ex1\ex1\obj\Debug\ex1.addward.resources
+E:\bca6thsem\27 march\ex1\ex1\obj\Debug\ex1.admin.resources
+E:\bca6thsem\27 march\ex1\ex1\obj\Debug\ex1.advance.resources
+E:\bca6thsem\27 march\ex1\ex1\obj\Debug\ex1.apmts.resources
+E:\bca6thsem\27 march\ex1\ex1\obj\Debug\ex1.Attend.resources
+E:\bca6thsem\27 march\ex1\ex1\obj\Debug\ex1.bedshift.resources
+E:\bca6thsem\27 march\ex1\ex1\obj\Debug\ex1.capmt.resources
+E:\bca6thsem\27 march\ex1\ex1\obj\Debug\ex1.cpass.resources
+E:\bca6thsem\27 march\ex1\ex1\obj\Debug\ex1.dischargesummary.resources
+E:\bca6thsem\27 march\ex1\ex1\obj\Debug\ex1.dsview.resources
+E:\bca6thsem\27 march\ex1\ex1\obj\Debug\ex1.empdetails.resources
+E:\bca6thsem\27 march\ex1\ex1\obj\Debug\ex1.fblock.resources
+E:\bca6thsem\27 march\ex1\ex1\obj\Debug\ex1.fileentry.resources
+E:\bca6thsem\27 march\ex1\ex1\obj\Debug\ex1.Form1.resources
+E:\bca6thsem\27 march\ex1\ex1\obj\Debug\ex1.IP.resources
+E:\bca6thsem\27 march\ex1\ex1\obj\Debug\ex1.ipbill.resources
+E:\bca6thsem\27 march\ex1\ex1\obj\Debug\ex1.ipbillview.resources
+E:\bca6thsem\27 march\ex1\ex1\obj\Debug\ex1.labap.resources
+E:\bca6thsem\27 march\ex1\ex1\obj\Debug\ex1.labbill.resources
+E:\bca6thsem\27 march\ex1\ex1\obj\Debug\ex1.labdis.resources
+E:\bca6thsem\27 march\ex1\ex1\obj\Debug\ex1.labreport.resources
+E:\bca6thsem\27 march\ex1\ex1\obj\Debug\ex1.labreportview.resources
+E:\bca6thsem\27 march\ex1\ex1\obj\Debug\ex1.loadp.resources
+E:\bca6thsem\27 march\ex1\ex1\obj\Debug\ex1.login.resources
+E:\bca6thsem\27 march\ex1\ex1\obj\Debug\ex1.main.resources
+E:\bca6thsem\27 march\ex1\ex1\obj\Debug\ex1.newpw.resources
+E:\bca6thsem\27 march\ex1\ex1\obj\Debug\ex1.OP.resources
+E:\bca6thsem\27 march\ex1\ex1\obj\Debug\ex1.fpassw.resources
+E:\bca6thsem\27 march\ex1\ex1\obj\Debug\ex1.Resources.resources
+E:\bca6thsem\27 march\ex1\ex1\obj\Debug\ex1.opbill.resources
+E:\bca6thsem\27 march\ex1\ex1\obj\Debug\ex1.opbillview.resources
+E:\bca6thsem\27 march\ex1\ex1\obj\Debug\ex1.payslip.resources
+E:\bca6thsem\27 march\ex1\ex1\obj\Debug\ex1.pmaster.resources
+E:\bca6thsem\27 march\ex1\ex1\obj\Debug\ex1.Resign.resources
+E:\bca6thsem\27 march\ex1\ex1\obj\Debug\ex1.salarycal.resources
+E:\bca6thsem\27 march\ex1\ex1\obj\Debug\ex1.scan.resources
+E:\bca6thsem\27 march\ex1\ex1\obj\Debug\ex1.scanbill.resources
+E:\bca6thsem\27 march\ex1\ex1\obj\Debug\ex1.scandis.resources
+E:\bca6thsem\27 march\ex1\ex1\obj\Debug\ex1.scanreport.resources
+E:\bca6thsem\27 march\ex1\ex1\obj\Debug\ex1.treatdetails.resources
+E:\bca6thsem\27 march\ex1\ex1\obj\Debug\ex1.treatment.resources
+E:\bca6thsem\27 march\ex1\ex1\obj\Debug\ex1.wardbs.resources
+E:\bca6thsem\27 march\ex1\ex1\obj\Debug\ex1.wardm.resources
+E:\bca6thsem\27 march\ex1\ex1\obj\Debug\ex1.wardview.resources
+E:\bca6thsem\27 march\ex1\ex1\obj\Debug\ex1.vbproj.GenerateResource.Cache
+Y:\29_march\ex1\ex1\bin\Debug\ex1.exe.config
+Y:\29_march\ex1\ex1\obj\Debug\ex1.exe
+Y:\29_march\ex1\ex1\obj\Debug\ex1.xml
+Y:\29_march\ex1\ex1\obj\Debug\ex1.pdb
+Y:\29_march\ex1\ex1\obj\Debug\ResolveAssemblyReference.cache
+Y:\29_march\ex1\ex1\obj\Debug\ex1.dsreport.rpt
+Y:\29_march\ex1\ex1\obj\Debug\ex1.ipbillreport.rpt
+Y:\29_march\ex1\ex1\obj\Debug\ex1.lab rportip.rpt
+Y:\29_march\ex1\ex1\obj\Debug\ex1.labbillreport.rpt
+Y:\29_march\ex1\ex1\obj\Debug\ex1.opbillreport.rpt
+Y:\29_march\ex1\ex1\obj\Debug\ex1.accounts.resources
+Y:\29_march\ex1\ex1\obj\Debug\ex1.adde.resources
+Y:\29_march\ex1\ex1\obj\Debug\ex1.addward.resources
+Y:\29_march\ex1\ex1\obj\Debug\ex1.admin.resources
+Y:\29_march\ex1\ex1\obj\Debug\ex1.advance.resources
+Y:\29_march\ex1\ex1\obj\Debug\ex1.apmts.resources
+Y:\29_march\ex1\ex1\obj\Debug\ex1.Attend.resources
+Y:\29_march\ex1\ex1\obj\Debug\ex1.bedshift.resources
+Y:\29_march\ex1\ex1\obj\Debug\ex1.capmt.resources
+Y:\29_march\ex1\ex1\obj\Debug\ex1.cpass.resources
+Y:\29_march\ex1\ex1\obj\Debug\ex1.dischargesummary.resources
+Y:\29_march\ex1\ex1\obj\Debug\ex1.dsview.resources
+Y:\29_march\ex1\ex1\obj\Debug\ex1.empdetails.resources
+Y:\29_march\ex1\ex1\obj\Debug\ex1.fblock.resources
+Y:\29_march\ex1\ex1\obj\Debug\ex1.fileentry.resources
+Y:\29_march\ex1\ex1\obj\Debug\ex1.IP.resources
+Y:\29_march\ex1\ex1\obj\Debug\ex1.ipbill.resources
+Y:\29_march\ex1\ex1\obj\Debug\ex1.ipbillview.resources
+Y:\29_march\ex1\ex1\obj\Debug\ex1.labap.resources
+Y:\29_march\ex1\ex1\obj\Debug\ex1.labbill.resources
+Y:\29_march\ex1\ex1\obj\Debug\ex1.labdis.resources
+Y:\29_march\ex1\ex1\obj\Debug\ex1.labreport.resources
+Y:\29_march\ex1\ex1\obj\Debug\ex1.labreportview.resources
+Y:\29_march\ex1\ex1\obj\Debug\ex1.loadp.resources
+Y:\29_march\ex1\ex1\obj\Debug\ex1.login.resources
+Y:\29_march\ex1\ex1\obj\Debug\ex1.main.resources
+Y:\29_march\ex1\ex1\obj\Debug\ex1.newpw.resources
+Y:\29_march\ex1\ex1\obj\Debug\ex1.OP.resources
+Y:\29_march\ex1\ex1\obj\Debug\ex1.fpassw.resources
+Y:\29_march\ex1\ex1\obj\Debug\ex1.Resources.resources
+Y:\29_march\ex1\ex1\obj\Debug\ex1.opbill.resources
+Y:\29_march\ex1\ex1\obj\Debug\ex1.opbillview.resources
+Y:\29_march\ex1\ex1\obj\Debug\ex1.payslip.resources
+Y:\29_march\ex1\ex1\obj\Debug\ex1.pmaster.resources
+Y:\29_march\ex1\ex1\obj\Debug\ex1.Resign.resources
+Y:\29_march\ex1\ex1\obj\Debug\ex1.salarycal.resources
+Y:\29_march\ex1\ex1\obj\Debug\ex1.scan.resources
+Y:\29_march\ex1\ex1\obj\Debug\ex1.scanbill.resources
+Y:\29_march\ex1\ex1\obj\Debug\ex1.scandis.resources
+Y:\29_march\ex1\ex1\obj\Debug\ex1.treatdetails.resources
+Y:\29_march\ex1\ex1\obj\Debug\ex1.treatment.resources
+Y:\29_march\ex1\ex1\obj\Debug\ex1.wardbs.resources
+Y:\29_march\ex1\ex1\obj\Debug\ex1.wardm.resources
+Y:\29_march\ex1\ex1\obj\Debug\ex1.wardview.resources
+Y:\29_march\ex1\ex1\obj\Debug\ex1.vbproj.GenerateResource.Cache
+Y:\29_march\ex1\ex1\bin\Debug\ex1.exe
+Y:\29_march\ex1\ex1\bin\Debug\ex1.pdb
+Y:\29_march\ex1\ex1\bin\Debug\ex1.xml
+Y:\29_march\ex1\ex1\obj\Debug\ex1.iplabreportview.resources
+Y:\29_march\ex1\ex1\obj\Debug\ex1.lab rportop.rpt
+Y:\29_march\ex1\ex1\obj\Debug\ex1.oplabreportview.resources
+Y:\29_march\ex1\ex1\obj\Debug\ex1.scanreport.rpt
+Y:\29_march\ex1\ex1\obj\Debug\ex1.scanbillview.resources
+C:\Documents and Settings\bgroup7\Desktop\ex1\ex1\bin\Debug\ex1.exe.config
+C:\Documents and Settings\bgroup7\Desktop\ex1\ex1\obj\Debug\ex1.exe
+C:\Documents and Settings\bgroup7\Desktop\ex1\ex1\obj\Debug\ex1.xml
+C:\Documents and Settings\bgroup7\Desktop\ex1\ex1\obj\Debug\ex1.pdb
+E:\bca6thsem\29th eve\ex1\ex1\bin\Debug\ex1.exe.config
+E:\bca6thsem\29th eve\ex1\ex1\obj\Debug\ex1.exe
+E:\bca6thsem\29th eve\ex1\ex1\obj\Debug\ex1.xml
+E:\bca6thsem\29th eve\ex1\ex1\obj\Debug\ex1.pdb
+E:\bca6thsem\29th eve\ex1\ex1\obj\Debug\ResolveAssemblyReference.cache
+E:\bca6thsem\29th eve\ex1\ex1\obj\Debug\ex1.dsreport.rpt
+E:\bca6thsem\29th eve\ex1\ex1\obj\Debug\ex1.ipbillreport.rpt
+E:\bca6thsem\29th eve\ex1\ex1\obj\Debug\ex1.lab rportip.rpt
+E:\bca6thsem\29th eve\ex1\ex1\obj\Debug\ex1.lab rportop.rpt
+E:\bca6thsem\29th eve\ex1\ex1\obj\Debug\ex1.labbillreport.rpt
+E:\bca6thsem\29th eve\ex1\ex1\obj\Debug\ex1.opbillreport.rpt
+E:\bca6thsem\29th eve\ex1\ex1\obj\Debug\ex1.scanreport.rpt
+E:\bca6thsem\29th eve\ex1\ex1\bin\Debug\ex1.exe
+E:\bca6thsem\29th eve\ex1\ex1\bin\Debug\ex1.pdb
+E:\bca6thsem\29th eve\ex1\ex1\bin\Debug\ex1.xml
+E:\bca6thsem\29th eve\ex1\ex1\obj\Debug\ex1.about.resources
+E:\bca6thsem\29th eve\ex1\ex1\obj\Debug\ex1.accounts.resources
+E:\bca6thsem\29th eve\ex1\ex1\obj\Debug\ex1.adde.resources
+E:\bca6thsem\29th eve\ex1\ex1\obj\Debug\ex1.addward.resources
+E:\bca6thsem\29th eve\ex1\ex1\obj\Debug\ex1.admin.resources
+E:\bca6thsem\29th eve\ex1\ex1\obj\Debug\ex1.advance.resources
+E:\bca6thsem\29th eve\ex1\ex1\obj\Debug\ex1.apmts.resources
+E:\bca6thsem\29th eve\ex1\ex1\obj\Debug\ex1.Attend.resources
+E:\bca6thsem\29th eve\ex1\ex1\obj\Debug\ex1.bedshift.resources
+E:\bca6thsem\29th eve\ex1\ex1\obj\Debug\ex1.capmt.resources
+E:\bca6thsem\29th eve\ex1\ex1\obj\Debug\ex1.cpass.resources
+E:\bca6thsem\29th eve\ex1\ex1\obj\Debug\ex1.dischargesummary.resources
+E:\bca6thsem\29th eve\ex1\ex1\obj\Debug\ex1.dsview.resources
+E:\bca6thsem\29th eve\ex1\ex1\obj\Debug\ex1.empdetails.resources
+E:\bca6thsem\29th eve\ex1\ex1\obj\Debug\ex1.fblock.resources
+E:\bca6thsem\29th eve\ex1\ex1\obj\Debug\ex1.fileentry.resources
+E:\bca6thsem\29th eve\ex1\ex1\obj\Debug\ex1.IP.resources
+E:\bca6thsem\29th eve\ex1\ex1\obj\Debug\ex1.ipbill.resources
+E:\bca6thsem\29th eve\ex1\ex1\obj\Debug\ex1.ipbillview.resources
+E:\bca6thsem\29th eve\ex1\ex1\obj\Debug\ex1.iplabreportview.resources
+E:\bca6thsem\29th eve\ex1\ex1\obj\Debug\ex1.labap.resources
+E:\bca6thsem\29th eve\ex1\ex1\obj\Debug\ex1.labbill.resources
+E:\bca6thsem\29th eve\ex1\ex1\obj\Debug\ex1.labdis.resources
+E:\bca6thsem\29th eve\ex1\ex1\obj\Debug\ex1.labreport.resources
+E:\bca6thsem\29th eve\ex1\ex1\obj\Debug\ex1.labreportview.resources
+E:\bca6thsem\29th eve\ex1\ex1\obj\Debug\ex1.loadp.resources
+E:\bca6thsem\29th eve\ex1\ex1\obj\Debug\ex1.login.resources
+E:\bca6thsem\29th eve\ex1\ex1\obj\Debug\ex1.main.resources
+E:\bca6thsem\29th eve\ex1\ex1\obj\Debug\ex1.newpw.resources
+E:\bca6thsem\29th eve\ex1\ex1\obj\Debug\ex1.OP.resources
+E:\bca6thsem\29th eve\ex1\ex1\obj\Debug\ex1.fpassw.resources
+E:\bca6thsem\29th eve\ex1\ex1\obj\Debug\ex1.Resources.resources
+E:\bca6thsem\29th eve\ex1\ex1\obj\Debug\ex1.opbill.resources
+E:\bca6thsem\29th eve\ex1\ex1\obj\Debug\ex1.opbillview.resources
+E:\bca6thsem\29th eve\ex1\ex1\obj\Debug\ex1.oplabreportview.resources
+E:\bca6thsem\29th eve\ex1\ex1\obj\Debug\ex1.payslip.resources
+E:\bca6thsem\29th eve\ex1\ex1\obj\Debug\ex1.pmaster.resources
+E:\bca6thsem\29th eve\ex1\ex1\obj\Debug\ex1.Resign.resources
+E:\bca6thsem\29th eve\ex1\ex1\obj\Debug\ex1.salarycal.resources
+E:\bca6thsem\29th eve\ex1\ex1\obj\Debug\ex1.scan.resources
+E:\bca6thsem\29th eve\ex1\ex1\obj\Debug\ex1.scanbill.resources
+E:\bca6thsem\29th eve\ex1\ex1\obj\Debug\ex1.scanbillview.resources
+E:\bca6thsem\29th eve\ex1\ex1\obj\Debug\ex1.scandis.resources
+E:\bca6thsem\29th eve\ex1\ex1\obj\Debug\ex1.treatdetails.resources
+E:\bca6thsem\29th eve\ex1\ex1\obj\Debug\ex1.treatment.resources
+E:\bca6thsem\29th eve\ex1\ex1\obj\Debug\ex1.treatmentmaster.resources
+E:\bca6thsem\29th eve\ex1\ex1\obj\Debug\ex1.wardbs.resources
+E:\bca6thsem\29th eve\ex1\ex1\obj\Debug\ex1.wardm.resources
+E:\bca6thsem\29th eve\ex1\ex1\obj\Debug\ex1.wardview.resources
+E:\bca6thsem\29th eve\ex1\ex1\obj\Debug\ex1.vbproj.GenerateResource.Cache
+E:\bca6thsem\29th eve\ex1\ex1\obj\Debug\ex1.labmaster.resources
+E:\bca6thsem\30th march\ex1\ex1\bin\Debug\ex1.exe.config
+E:\bca6thsem\30th march\ex1\ex1\obj\Debug\ex1.exe
+E:\bca6thsem\30th march\ex1\ex1\obj\Debug\ex1.xml
+E:\bca6thsem\30th march\ex1\ex1\obj\Debug\ex1.pdb
+E:\bca6thsem\30th march\ex1\ex1\bin\Debug\ex1.exe
+E:\bca6thsem\30th march\ex1\ex1\bin\Debug\ex1.pdb
+E:\bca6thsem\30th march\ex1\ex1\bin\Debug\ex1.xml
+E:\bca6thsem\30th march\ex1\ex1\obj\Debug\ResolveAssemblyReference.cache
+E:\bca6thsem\30th march\ex1\ex1\obj\Debug\ex1.dsreport.rpt
+E:\bca6thsem\30th march\ex1\ex1\obj\Debug\ex1.ipbillreport.rpt
+E:\bca6thsem\30th march\ex1\ex1\obj\Debug\ex1.lab rportip.rpt
+E:\bca6thsem\30th march\ex1\ex1\obj\Debug\ex1.lab rportop.rpt
+E:\bca6thsem\30th march\ex1\ex1\obj\Debug\ex1.labbillreport.rpt
+E:\bca6thsem\30th march\ex1\ex1\obj\Debug\ex1.opbillreport.rpt
+E:\bca6thsem\30th march\ex1\ex1\obj\Debug\ex1.scanreport.rpt
+E:\bca6thsem\30th march\ex1\ex1\obj\Debug\ex1.about.resources
+E:\bca6thsem\30th march\ex1\ex1\obj\Debug\ex1.accounts.resources
+E:\bca6thsem\30th march\ex1\ex1\obj\Debug\ex1.adde.resources
+E:\bca6thsem\30th march\ex1\ex1\obj\Debug\ex1.addward.resources
+E:\bca6thsem\30th march\ex1\ex1\obj\Debug\ex1.admin.resources
+E:\bca6thsem\30th march\ex1\ex1\obj\Debug\ex1.advance.resources
+E:\bca6thsem\30th march\ex1\ex1\obj\Debug\ex1.apmts.resources
+E:\bca6thsem\30th march\ex1\ex1\obj\Debug\ex1.Attend.resources
+E:\bca6thsem\30th march\ex1\ex1\obj\Debug\ex1.bedshift.resources
+E:\bca6thsem\30th march\ex1\ex1\obj\Debug\ex1.capmt.resources
+E:\bca6thsem\30th march\ex1\ex1\obj\Debug\ex1.cpass.resources
+E:\bca6thsem\30th march\ex1\ex1\obj\Debug\ex1.dischargesummary.resources
+E:\bca6thsem\30th march\ex1\ex1\obj\Debug\ex1.dsview.resources
+E:\bca6thsem\30th march\ex1\ex1\obj\Debug\ex1.empdetails.resources
+E:\bca6thsem\30th march\ex1\ex1\obj\Debug\ex1.fblock.resources
+E:\bca6thsem\30th march\ex1\ex1\obj\Debug\ex1.fileentry.resources
+E:\bca6thsem\30th march\ex1\ex1\obj\Debug\ex1.IP.resources
+E:\bca6thsem\30th march\ex1\ex1\obj\Debug\ex1.ipbill.resources
+E:\bca6thsem\30th march\ex1\ex1\obj\Debug\ex1.ipbillview.resources
+E:\bca6thsem\30th march\ex1\ex1\obj\Debug\ex1.iplabreportview.resources
+E:\bca6thsem\30th march\ex1\ex1\obj\Debug\ex1.labap.resources
+E:\bca6thsem\30th march\ex1\ex1\obj\Debug\ex1.labbill.resources
+E:\bca6thsem\30th march\ex1\ex1\obj\Debug\ex1.labdis.resources
+E:\bca6thsem\30th march\ex1\ex1\obj\Debug\ex1.labmaster.resources
+E:\bca6thsem\30th march\ex1\ex1\obj\Debug\ex1.labreport.resources
+E:\bca6thsem\30th march\ex1\ex1\obj\Debug\ex1.labreportview.resources
+E:\bca6thsem\30th march\ex1\ex1\obj\Debug\ex1.loadp.resources
+E:\bca6thsem\30th march\ex1\ex1\obj\Debug\ex1.login.resources
+E:\bca6thsem\30th march\ex1\ex1\obj\Debug\ex1.main.resources
+E:\bca6thsem\30th march\ex1\ex1\obj\Debug\ex1.newpw.resources
+E:\bca6thsem\30th march\ex1\ex1\obj\Debug\ex1.OP.resources
+E:\bca6thsem\30th march\ex1\ex1\obj\Debug\ex1.fpassw.resources
+E:\bca6thsem\30th march\ex1\ex1\obj\Debug\ex1.Resources.resources
+E:\bca6thsem\30th march\ex1\ex1\obj\Debug\ex1.opbill.resources
+E:\bca6thsem\30th march\ex1\ex1\obj\Debug\ex1.opbillview.resources
+E:\bca6thsem\30th march\ex1\ex1\obj\Debug\ex1.oplabreportview.resources
+E:\bca6thsem\30th march\ex1\ex1\obj\Debug\ex1.payslip.resources
+E:\bca6thsem\30th march\ex1\ex1\obj\Debug\ex1.pmaster.resources
+E:\bca6thsem\30th march\ex1\ex1\obj\Debug\ex1.Resign.resources
+E:\bca6thsem\30th march\ex1\ex1\obj\Debug\ex1.salarycal.resources
+E:\bca6thsem\30th march\ex1\ex1\obj\Debug\ex1.scan.resources
+E:\bca6thsem\30th march\ex1\ex1\obj\Debug\ex1.scanbill.resources
+E:\bca6thsem\30th march\ex1\ex1\obj\Debug\ex1.scanbillview.resources
+E:\bca6thsem\30th march\ex1\ex1\obj\Debug\ex1.scandis.resources
+E:\bca6thsem\30th march\ex1\ex1\obj\Debug\ex1.treatdetails.resources
+E:\bca6thsem\30th march\ex1\ex1\obj\Debug\ex1.treatment.resources
+E:\bca6thsem\30th march\ex1\ex1\obj\Debug\ex1.treatmentmaster.resources
+E:\bca6thsem\30th march\ex1\ex1\obj\Debug\ex1.wardbs.resources
+E:\bca6thsem\30th march\ex1\ex1\obj\Debug\ex1.wardm.resources
+E:\bca6thsem\30th march\ex1\ex1\obj\Debug\ex1.wardview.resources
+E:\bca6thsem\30th march\ex1\ex1\obj\Debug\ex1.vbproj.GenerateResource.Cache
+Y:\30th march\ex1\ex1\bin\Debug\ex1.exe.config
+Y:\30th march\ex1\ex1\obj\Debug\ex1.exe
+Y:\30th march\ex1\ex1\obj\Debug\ex1.xml
+Y:\30th march\ex1\ex1\obj\Debug\ex1.pdb
+Y:\30th march\ex1\ex1\bin\Debug\ex1.exe
+Y:\30th march\ex1\ex1\bin\Debug\ex1.pdb
+Y:\30th march\ex1\ex1\bin\Debug\ex1.xml
+Y:\30th march\ex1\ex1\obj\Debug\ResolveAssemblyReference.cache
+Y:\30th march\ex1\ex1\obj\Debug\ex1.dsreport.rpt
+Y:\30th march\ex1\ex1\obj\Debug\ex1.ipbillreport.rpt
+Y:\30th march\ex1\ex1\obj\Debug\ex1.lab rportip.rpt
+Y:\30th march\ex1\ex1\obj\Debug\ex1.lab rportop.rpt
+Y:\30th march\ex1\ex1\obj\Debug\ex1.labbillreport.rpt
+Y:\30th march\ex1\ex1\obj\Debug\ex1.opbillreport.rpt
+Y:\30th march\ex1\ex1\obj\Debug\ex1.scanreport.rpt
+Y:\30th march\ex1\ex1\obj\Debug\ex1.about.resources
+Y:\30th march\ex1\ex1\obj\Debug\ex1.accounts.resources
+Y:\30th march\ex1\ex1\obj\Debug\ex1.adde.resources
+Y:\30th march\ex1\ex1\obj\Debug\ex1.addward.resources
+Y:\30th march\ex1\ex1\obj\Debug\ex1.admin.resources
+Y:\30th march\ex1\ex1\obj\Debug\ex1.advance.resources
+Y:\30th march\ex1\ex1\obj\Debug\ex1.apmts.resources
+Y:\30th march\ex1\ex1\obj\Debug\ex1.Attend.resources
+Y:\30th march\ex1\ex1\obj\Debug\ex1.bedshift.resources
+Y:\30th march\ex1\ex1\obj\Debug\ex1.capmt.resources
+Y:\30th march\ex1\ex1\obj\Debug\ex1.cpass.resources
+Y:\30th march\ex1\ex1\obj\Debug\ex1.dischargesummary.resources
+Y:\30th march\ex1\ex1\obj\Debug\ex1.dsview.resources
+Y:\30th march\ex1\ex1\obj\Debug\ex1.empdetails.resources
+Y:\30th march\ex1\ex1\obj\Debug\ex1.fblock.resources
+Y:\30th march\ex1\ex1\obj\Debug\ex1.fileentry.resources
+Y:\30th march\ex1\ex1\obj\Debug\ex1.IP.resources
+Y:\30th march\ex1\ex1\obj\Debug\ex1.ipbill.resources
+Y:\30th march\ex1\ex1\obj\Debug\ex1.ipbillview.resources
+Y:\30th march\ex1\ex1\obj\Debug\ex1.iplabreportview.resources
+Y:\30th march\ex1\ex1\obj\Debug\ex1.labap.resources
+Y:\30th march\ex1\ex1\obj\Debug\ex1.labbill.resources
+Y:\30th march\ex1\ex1\obj\Debug\ex1.labdis.resources
+Y:\30th march\ex1\ex1\obj\Debug\ex1.labmaster.resources
+Y:\30th march\ex1\ex1\obj\Debug\ex1.labreport.resources
+Y:\30th march\ex1\ex1\obj\Debug\ex1.labreportview.resources
+Y:\30th march\ex1\ex1\obj\Debug\ex1.loadp.resources
+Y:\30th march\ex1\ex1\obj\Debug\ex1.login.resources
+Y:\30th march\ex1\ex1\obj\Debug\ex1.main.resources
+Y:\30th march\ex1\ex1\obj\Debug\ex1.newpw.resources
+Y:\30th march\ex1\ex1\obj\Debug\ex1.OP.resources
+Y:\30th march\ex1\ex1\obj\Debug\ex1.fpassw.resources
+Y:\30th march\ex1\ex1\obj\Debug\ex1.Resources.resources
+Y:\30th march\ex1\ex1\obj\Debug\ex1.opbill.resources
+Y:\30th march\ex1\ex1\obj\Debug\ex1.opbillview.resources
+Y:\30th march\ex1\ex1\obj\Debug\ex1.oplabreportview.resources
+Y:\30th march\ex1\ex1\obj\Debug\ex1.payslip.resources
+Y:\30th march\ex1\ex1\obj\Debug\ex1.pmaster.resources
+Y:\30th march\ex1\ex1\obj\Debug\ex1.Resign.resources
+Y:\30th march\ex1\ex1\obj\Debug\ex1.salarycal.resources
+Y:\30th march\ex1\ex1\obj\Debug\ex1.scan.resources
+Y:\30th march\ex1\ex1\obj\Debug\ex1.scanbill.resources
+Y:\30th march\ex1\ex1\obj\Debug\ex1.scanbillview.resources
+Y:\30th march\ex1\ex1\obj\Debug\ex1.scandis.resources
+Y:\30th march\ex1\ex1\obj\Debug\ex1.treatdetails.resources
+Y:\30th march\ex1\ex1\obj\Debug\ex1.treatment.resources
+Y:\30th march\ex1\ex1\obj\Debug\ex1.treatmentmaster.resources
+Y:\30th march\ex1\ex1\obj\Debug\ex1.wardbs.resources
+Y:\30th march\ex1\ex1\obj\Debug\ex1.wardm.resources
+Y:\30th march\ex1\ex1\obj\Debug\ex1.wardview.resources
+Y:\30th march\ex1\ex1\obj\Debug\ex1.vbproj.GenerateResource.Cache
+Y:\30th march\ex1\ex1\obj\Debug\ex1.payslipreport.rpt
+Y:\30th march\ex1\ex1\obj\Debug\ex1.payslipview.resources
+E:\bca6thsem\30th march\ex1\ex1\obj\Debug\ex1.payslipreport.rpt
+E:\bca6thsem\30th march\ex1\ex1\obj\Debug\ex1.payslipview.resources
+Y:\final project present\ex1\ex1\bin\Debug\ex1.exe.config
+Y:\final project present\ex1\ex1\obj\Debug\ex1.exe
+Y:\final project present\ex1\ex1\obj\Debug\ex1.xml
+Y:\final project present\ex1\ex1\obj\Debug\ex1.pdb
+Y:\final project present\ex1\ex1\bin\Debug\ex1.exe
+Y:\final project present\ex1\ex1\bin\Debug\ex1.pdb
+Y:\final project present\ex1\ex1\bin\Debug\ex1.xml
+Y:\final project present\ex1\ex1\obj\Debug\ResolveAssemblyReference.cache
+Y:\final project present\ex1\ex1\obj\Debug\ex1.dsreport.rpt
+Y:\final project present\ex1\ex1\obj\Debug\ex1.ipbillreport.rpt
+Y:\final project present\ex1\ex1\obj\Debug\ex1.lab rportip.rpt
+Y:\final project present\ex1\ex1\obj\Debug\ex1.lab rportop.rpt
+Y:\final project present\ex1\ex1\obj\Debug\ex1.labbillreport.rpt
+Y:\final project present\ex1\ex1\obj\Debug\ex1.opbillreport.rpt
+Y:\final project present\ex1\ex1\obj\Debug\ex1.payslipreport.rpt
+Y:\final project present\ex1\ex1\obj\Debug\ex1.scanreport.rpt
+Y:\final project present\ex1\ex1\obj\Debug\ex1.about.resources
+Y:\final project present\ex1\ex1\obj\Debug\ex1.accounts.resources
+Y:\final project present\ex1\ex1\obj\Debug\ex1.adde.resources
+Y:\final project present\ex1\ex1\obj\Debug\ex1.addward.resources
+Y:\final project present\ex1\ex1\obj\Debug\ex1.admin.resources
+Y:\final project present\ex1\ex1\obj\Debug\ex1.advance.resources
+Y:\final project present\ex1\ex1\obj\Debug\ex1.apmts.resources
+Y:\final project present\ex1\ex1\obj\Debug\ex1.Attend.resources
+Y:\final project present\ex1\ex1\obj\Debug\ex1.bedshift.resources
+Y:\final project present\ex1\ex1\obj\Debug\ex1.capmt.resources
+Y:\final project present\ex1\ex1\obj\Debug\ex1.cpass.resources
+Y:\final project present\ex1\ex1\obj\Debug\ex1.dischargesummary.resources
+Y:\final project present\ex1\ex1\obj\Debug\ex1.dsview.resources
+Y:\final project present\ex1\ex1\obj\Debug\ex1.empdetails.resources
+Y:\final project present\ex1\ex1\obj\Debug\ex1.fblock.resources
+Y:\final project present\ex1\ex1\obj\Debug\ex1.fileentry.resources
+Y:\final project present\ex1\ex1\obj\Debug\ex1.IP.resources
+Y:\final project present\ex1\ex1\obj\Debug\ex1.ipbill.resources
+Y:\final project present\ex1\ex1\obj\Debug\ex1.ipbillview.resources
+Y:\final project present\ex1\ex1\obj\Debug\ex1.iplabreportview.resources
+Y:\final project present\ex1\ex1\obj\Debug\ex1.labap.resources
+Y:\final project present\ex1\ex1\obj\Debug\ex1.labbill.resources
+Y:\final project present\ex1\ex1\obj\Debug\ex1.labdis.resources
+Y:\final project present\ex1\ex1\obj\Debug\ex1.labmaster.resources
+Y:\final project present\ex1\ex1\obj\Debug\ex1.labreport.resources
+Y:\final project present\ex1\ex1\obj\Debug\ex1.labreportview.resources
+Y:\final project present\ex1\ex1\obj\Debug\ex1.loadp.resources
+Y:\final project present\ex1\ex1\obj\Debug\ex1.login.resources
+Y:\final project present\ex1\ex1\obj\Debug\ex1.main.resources
+Y:\final project present\ex1\ex1\obj\Debug\ex1.newpw.resources
+Y:\final project present\ex1\ex1\obj\Debug\ex1.OP.resources
+Y:\final project present\ex1\ex1\obj\Debug\ex1.fpassw.resources
+Y:\final project present\ex1\ex1\obj\Debug\ex1.Resources.resources
+Y:\final project present\ex1\ex1\obj\Debug\ex1.opbill.resources
+Y:\final project present\ex1\ex1\obj\Debug\ex1.opbillview.resources
+Y:\final project present\ex1\ex1\obj\Debug\ex1.oplabreportview.resources
+Y:\final project present\ex1\ex1\obj\Debug\ex1.payslip.resources
+Y:\final project present\ex1\ex1\obj\Debug\ex1.payslipview.resources
+Y:\final project present\ex1\ex1\obj\Debug\ex1.pmaster.resources
+Y:\final project present\ex1\ex1\obj\Debug\ex1.Resign.resources
+Y:\final project present\ex1\ex1\obj\Debug\ex1.salarycal.resources
+Y:\final project present\ex1\ex1\obj\Debug\ex1.scan.resources
+Y:\final project present\ex1\ex1\obj\Debug\ex1.scanbill.resources
+Y:\final project present\ex1\ex1\obj\Debug\ex1.scanbillview.resources
+Y:\final project present\ex1\ex1\obj\Debug\ex1.scandis.resources
+Y:\final project present\ex1\ex1\obj\Debug\ex1.treatdetails.resources
+Y:\final project present\ex1\ex1\obj\Debug\ex1.treatment.resources
+Y:\final project present\ex1\ex1\obj\Debug\ex1.treatmentmaster.resources
+Y:\final project present\ex1\ex1\obj\Debug\ex1.wardbs.resources
+Y:\final project present\ex1\ex1\obj\Debug\ex1.wardm.resources
+Y:\final project present\ex1\ex1\obj\Debug\ex1.wardview.resources
+Y:\final project present\ex1\ex1\obj\Debug\ex1.vbproj.GenerateResource.Cache
+E:\bca6thsem\final project present\ex1\ex1\bin\Debug\ex1.exe.config
+E:\bca6thsem\final project present\ex1\ex1\obj\Debug\ex1.exe
+E:\bca6thsem\final project present\ex1\ex1\obj\Debug\ex1.xml
+E:\bca6thsem\final project present\ex1\ex1\obj\Debug\ex1.pdb
+E:\bca6thsem\final project present\ex1\ex1\bin\x86\Debug\ex1.exe.config
+E:\bca6thsem\final project present\ex1\ex1\bin\x86\Debug\ex1.exe
+E:\bca6thsem\final project present\ex1\ex1\bin\x86\Debug\ex1.pdb
+E:\bca6thsem\final project present\ex1\ex1\bin\x86\Debug\ex1.xml
+E:\bca6thsem\final project present\ex1\ex1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\bca6thsem\final project present\ex1\ex1\obj\x86\Debug\ex1.dsreport.rpt
+E:\bca6thsem\final project present\ex1\ex1\obj\x86\Debug\ex1.ipbillreport.rpt
+E:\bca6thsem\final project present\ex1\ex1\obj\x86\Debug\ex1.lab rportip.rpt
+E:\bca6thsem\final project present\ex1\ex1\obj\x86\Debug\ex1.lab rportop.rpt
+E:\bca6thsem\final project present\ex1\ex1\obj\x86\Debug\ex1.labbillreport.rpt
+E:\bca6thsem\final project present\ex1\ex1\obj\x86\Debug\ex1.opbillreport.rpt
+E:\bca6thsem\final project present\ex1\ex1\obj\x86\Debug\ex1.payslipreport.rpt
+E:\bca6thsem\final project present\ex1\ex1\obj\x86\Debug\ex1.scanreport.rpt
+E:\bca6thsem\final project present\ex1\ex1\obj\x86\Debug\ex1.about.resources
+E:\bca6thsem\final project present\ex1\ex1\obj\x86\Debug\ex1.accounts.resources
+E:\bca6thsem\final project present\ex1\ex1\obj\x86\Debug\ex1.adde.resources
+E:\bca6thsem\final project present\ex1\ex1\obj\x86\Debug\ex1.addward.resources
+E:\bca6thsem\final project present\ex1\ex1\obj\x86\Debug\ex1.admin.resources
+E:\bca6thsem\final project present\ex1\ex1\obj\x86\Debug\ex1.advance.resources
+E:\bca6thsem\final project present\ex1\ex1\obj\x86\Debug\ex1.apmts.resources
+E:\bca6thsem\final project present\ex1\ex1\obj\x86\Debug\ex1.Attend.resources
+E:\bca6thsem\final project present\ex1\ex1\obj\x86\Debug\ex1.bedshift.resources
+E:\bca6thsem\final project present\ex1\ex1\obj\x86\Debug\ex1.capmt.resources
+E:\bca6thsem\final project present\ex1\ex1\obj\x86\Debug\ex1.cpass.resources
+E:\bca6thsem\final project present\ex1\ex1\obj\x86\Debug\ex1.dischargesummary.resources
+E:\bca6thsem\final project present\ex1\ex1\obj\x86\Debug\ex1.dsview.resources
+E:\bca6thsem\final project present\ex1\ex1\obj\x86\Debug\ex1.empdetails.resources
+E:\bca6thsem\final project present\ex1\ex1\obj\x86\Debug\ex1.fblock.resources
+E:\bca6thsem\final project present\ex1\ex1\obj\x86\Debug\ex1.fileentry.resources
+E:\bca6thsem\final project present\ex1\ex1\obj\x86\Debug\ex1.IP.resources
+E:\bca6thsem\final project present\ex1\ex1\obj\x86\Debug\ex1.ipbill.resources
+E:\bca6thsem\final project present\ex1\ex1\obj\x86\Debug\ex1.ipbillview.resources
+E:\bca6thsem\final project present\ex1\ex1\obj\x86\Debug\ex1.iplabreportview.resources
+E:\bca6thsem\final project present\ex1\ex1\obj\x86\Debug\ex1.labap.resources
+E:\bca6thsem\final project present\ex1\ex1\obj\x86\Debug\ex1.labbill.resources
+E:\bca6thsem\final project present\ex1\ex1\obj\x86\Debug\ex1.labdis.resources
+E:\bca6thsem\final project present\ex1\ex1\obj\x86\Debug\ex1.labmaster.resources
+E:\bca6thsem\final project present\ex1\ex1\obj\x86\Debug\ex1.labreport.resources
+E:\bca6thsem\final project present\ex1\ex1\obj\x86\Debug\ex1.labreportview.resources
+E:\bca6thsem\final project present\ex1\ex1\obj\x86\Debug\ex1.loadp.resources
+E:\bca6thsem\final project present\ex1\ex1\obj\x86\Debug\ex1.login.resources
+E:\bca6thsem\final project present\ex1\ex1\obj\x86\Debug\ex1.main.resources
+E:\bca6thsem\final project present\ex1\ex1\obj\x86\Debug\ex1.newpw.resources
+E:\bca6thsem\final project present\ex1\ex1\obj\x86\Debug\ex1.OP.resources
+E:\bca6thsem\final project present\ex1\ex1\obj\x86\Debug\ex1.fpassw.resources
+E:\bca6thsem\final project present\ex1\ex1\obj\x86\Debug\ex1.Resources.resources
+E:\bca6thsem\final project present\ex1\ex1\obj\x86\Debug\ex1.opbill.resources
+E:\bca6thsem\final project present\ex1\ex1\obj\x86\Debug\ex1.opbillview.resources
+E:\bca6thsem\final project present\ex1\ex1\obj\x86\Debug\ex1.oplabreportview.resources
+E:\bca6thsem\final project present\ex1\ex1\obj\x86\Debug\ex1.payslip.resources
+E:\bca6thsem\final project present\ex1\ex1\obj\x86\Debug\ex1.payslipview.resources
+E:\bca6thsem\final project present\ex1\ex1\obj\x86\Debug\ex1.pmaster.resources
+E:\bca6thsem\final project present\ex1\ex1\obj\x86\Debug\ex1.Resign.resources
+E:\bca6thsem\final project present\ex1\ex1\obj\x86\Debug\ex1.salarycal.resources
+E:\bca6thsem\final project present\ex1\ex1\obj\x86\Debug\ex1.scan.resources
+E:\bca6thsem\final project present\ex1\ex1\obj\x86\Debug\ex1.scanbill.resources
+E:\bca6thsem\final project present\ex1\ex1\obj\x86\Debug\ex1.scanbillview.resources
+E:\bca6thsem\final project present\ex1\ex1\obj\x86\Debug\ex1.scandis.resources
+E:\bca6thsem\final project present\ex1\ex1\obj\x86\Debug\ex1.treatdetails.resources
+E:\bca6thsem\final project present\ex1\ex1\obj\x86\Debug\ex1.treatment.resources
+E:\bca6thsem\final project present\ex1\ex1\obj\x86\Debug\ex1.treatmentmaster.resources
+E:\bca6thsem\final project present\ex1\ex1\obj\x86\Debug\ex1.wardbs.resources
+E:\bca6thsem\final project present\ex1\ex1\obj\x86\Debug\ex1.wardm.resources
+E:\bca6thsem\final project present\ex1\ex1\obj\x86\Debug\ex1.wardview.resources
+E:\bca6thsem\final project present\ex1\ex1\obj\x86\Debug\ex1.vbproj.GenerateResource.Cache
+E:\bca6thsem\final project present\ex1\ex1\obj\x86\Debug\ex1.exe
+E:\bca6thsem\final project present\ex1\ex1\obj\x86\Debug\ex1.xml
+E:\bca6thsem\final project present\ex1\ex1\obj\x86\Debug\ex1.pdb
+G:\final project present\ex1\ex1\bin\x86\Debug\ex1.exe.config
+G:\final project present\ex1\ex1\obj\x86\Debug\ex1.exe
+G:\final project present\ex1\ex1\obj\x86\Debug\ex1.xml
+G:\final project present\ex1\ex1\obj\x86\Debug\ex1.pdb
+G:\final project present\ex1\ex1\bin\x86\Debug\ex1.exe
+G:\final project present\ex1\ex1\bin\x86\Debug\ex1.pdb
+G:\final project present\ex1\ex1\bin\x86\Debug\ex1.xml
+G:\final project present\ex1\ex1\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\final project present\ex1\ex1\obj\x86\Debug\ex1.dsreport.rpt
+G:\final project present\ex1\ex1\obj\x86\Debug\ex1.ipbillreport.rpt
+G:\final project present\ex1\ex1\obj\x86\Debug\ex1.lab rportip.rpt
+G:\final project present\ex1\ex1\obj\x86\Debug\ex1.lab rportop.rpt
+G:\final project present\ex1\ex1\obj\x86\Debug\ex1.labbillreport.rpt
+G:\final project present\ex1\ex1\obj\x86\Debug\ex1.opbillreport.rpt
+G:\final project present\ex1\ex1\obj\x86\Debug\ex1.payslipreport.rpt
+G:\final project present\ex1\ex1\obj\x86\Debug\ex1.scanreport.rpt
+G:\final project present\ex1\ex1\obj\x86\Debug\ex1.about.resources
+G:\final project present\ex1\ex1\obj\x86\Debug\ex1.accounts.resources
+G:\final project present\ex1\ex1\obj\x86\Debug\ex1.adde.resources
+G:\final project present\ex1\ex1\obj\x86\Debug\ex1.addward.resources
+G:\final project present\ex1\ex1\obj\x86\Debug\ex1.admin.resources
+G:\final project present\ex1\ex1\obj\x86\Debug\ex1.advance.resources
+G:\final project present\ex1\ex1\obj\x86\Debug\ex1.apmts.resources
+G:\final project present\ex1\ex1\obj\x86\Debug\ex1.Attend.resources
+G:\final project present\ex1\ex1\obj\x86\Debug\ex1.bedshift.resources
+G:\final project present\ex1\ex1\obj\x86\Debug\ex1.capmt.resources
+G:\final project present\ex1\ex1\obj\x86\Debug\ex1.cpass.resources
+G:\final project present\ex1\ex1\obj\x86\Debug\ex1.dischargesummary.resources
+G:\final project present\ex1\ex1\obj\x86\Debug\ex1.dsview.resources
+G:\final project present\ex1\ex1\obj\x86\Debug\ex1.empdetails.resources
+G:\final project present\ex1\ex1\obj\x86\Debug\ex1.fblock.resources
+G:\final project present\ex1\ex1\obj\x86\Debug\ex1.fileentry.resources
+G:\final project present\ex1\ex1\obj\x86\Debug\ex1.IP.resources
+G:\final project present\ex1\ex1\obj\x86\Debug\ex1.ipbill.resources
+G:\final project present\ex1\ex1\obj\x86\Debug\ex1.ipbillview.resources
+G:\final project present\ex1\ex1\obj\x86\Debug\ex1.iplabreportview.resources
+G:\final project present\ex1\ex1\obj\x86\Debug\ex1.labap.resources
+G:\final project present\ex1\ex1\obj\x86\Debug\ex1.labbill.resources
+G:\final project present\ex1\ex1\obj\x86\Debug\ex1.labdis.resources
+G:\final project present\ex1\ex1\obj\x86\Debug\ex1.labmaster.resources
+G:\final project present\ex1\ex1\obj\x86\Debug\ex1.labreport.resources
+G:\final project present\ex1\ex1\obj\x86\Debug\ex1.labreportview.resources
+G:\final project present\ex1\ex1\obj\x86\Debug\ex1.loadp.resources
+G:\final project present\ex1\ex1\obj\x86\Debug\ex1.login.resources
+G:\final project present\ex1\ex1\obj\x86\Debug\ex1.main.resources
+G:\final project present\ex1\ex1\obj\x86\Debug\ex1.newpw.resources
+G:\final project present\ex1\ex1\obj\x86\Debug\ex1.OP.resources
+G:\final project present\ex1\ex1\obj\x86\Debug\ex1.fpassw.resources
+G:\final project present\ex1\ex1\obj\x86\Debug\ex1.Resources.resources
+G:\final project present\ex1\ex1\obj\x86\Debug\ex1.opbill.resources
+G:\final project present\ex1\ex1\obj\x86\Debug\ex1.opbillview.resources
+G:\final project present\ex1\ex1\obj\x86\Debug\ex1.oplabreportview.resources
+G:\final project present\ex1\ex1\obj\x86\Debug\ex1.payslip.resources
+G:\final project present\ex1\ex1\obj\x86\Debug\ex1.payslipview.resources
+G:\final project present\ex1\ex1\obj\x86\Debug\ex1.pmaster.resources
+G:\final project present\ex1\ex1\obj\x86\Debug\ex1.Resign.resources
+G:\final project present\ex1\ex1\obj\x86\Debug\ex1.salarycal.resources
+G:\final project present\ex1\ex1\obj\x86\Debug\ex1.scan.resources
+G:\final project present\ex1\ex1\obj\x86\Debug\ex1.scanbill.resources
+G:\final project present\ex1\ex1\obj\x86\Debug\ex1.scanbillview.resources
+G:\final project present\ex1\ex1\obj\x86\Debug\ex1.scandis.resources
+G:\final project present\ex1\ex1\obj\x86\Debug\ex1.treatdetails.resources
+G:\final project present\ex1\ex1\obj\x86\Debug\ex1.treatment.resources
+G:\final project present\ex1\ex1\obj\x86\Debug\ex1.treatmentmaster.resources
+G:\final project present\ex1\ex1\obj\x86\Debug\ex1.wardbs.resources
+G:\final project present\ex1\ex1\obj\x86\Debug\ex1.wardm.resources
+G:\final project present\ex1\ex1\obj\x86\Debug\ex1.wardview.resources
+G:\final project present\ex1\ex1\obj\x86\Debug\ex1.vbproj.GenerateResource.Cache

@@ -1,0 +1,792 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ex1
+</name>
+</assembly>
+<members>
+<member name="T:ex1.bgroup7DataSet3.blockedDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet3.blockedRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet3.blockedRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ex1.bgroup7DataSet3">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet3TableAdapters.blockedTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet6.ipDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet6.ipRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet6.ipRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ex1.bgroup7DataSet6">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet6TableAdapters.ipTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet9.blabDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet9.blabRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet9.blabRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ex1.bgroup7DataSet9">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet9TableAdapters.blabTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.advanceDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.attendanceDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.bedchargeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.blabDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.blockedDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.bloodDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.consultDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.ctDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.dischargesummaryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.doctorDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.dwardDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.ecgDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.echoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.employeeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.hmsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.ipDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.ipbillDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.ipchargesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.labDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.labbillDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.labchargesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.mriDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.opDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.opbillDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.opchargesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.resignDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.salaryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.scanDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.scanbillDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.scanchargeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.scannamesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.treatmentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.treatnamesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.wardsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.advanceRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.attendanceRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.bedchargeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.blabRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.blockedRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.bloodRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.consultRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.ctRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.dischargesummaryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.doctorRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.dwardRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.ecgRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.echoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.employeeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.hmsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.ipRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.ipbillRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.ipchargesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.labRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.labbillRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.labchargesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.mriRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.opRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.opbillRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.opchargesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.resignRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.salaryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.scanRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.scanbillRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.scanchargeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.scannamesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.treatmentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.treatnamesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.wardsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.advanceRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.attendanceRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.bedchargeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.blabRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.blockedRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.bloodRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.consultRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.ctRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.dischargesummaryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.doctorRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.dwardRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.ecgRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.echoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.employeeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.hmsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.ipRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.ipbillRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.ipchargesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.labRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.labbillRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.labchargesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.mriRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.opRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.opbillRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.opchargesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.resignRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.salaryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.scanRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.scanbillRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.scanchargeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.scannamesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.treatmentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.treatnamesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11.wardsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11TableAdapters.advanceTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11TableAdapters.attendanceTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11TableAdapters.bedchargeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11TableAdapters.blabTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11TableAdapters.blockedTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11TableAdapters.bloodTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11TableAdapters.consultTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11TableAdapters.ctTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11TableAdapters.dischargesummaryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11TableAdapters.doctorTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11TableAdapters.dwardTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11TableAdapters.ecgTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11TableAdapters.echoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11TableAdapters.employeeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11TableAdapters.hmsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11TableAdapters.ipTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11TableAdapters.ipbillTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11TableAdapters.ipchargesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11TableAdapters.labTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11TableAdapters.labbillTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11TableAdapters.labchargesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11TableAdapters.mriTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11TableAdapters.opTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11TableAdapters.opbillTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11TableAdapters.opchargesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11TableAdapters.resignTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11TableAdapters.salaryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11TableAdapters.scanTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11TableAdapters.scanbillTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11TableAdapters.scanchargeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11TableAdapters.scannamesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11TableAdapters.treatmentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11TableAdapters.treatnamesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet11TableAdapters.wardsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="P:ex1.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:ex1.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:ex1.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet8.labDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet8.labRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet8.labRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ex1.bgroup7DataSet8">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet8TableAdapters.labTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet2.hmsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet2.hmsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet2.hmsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ex1.bgroup7DataSet2">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet2TableAdapters.hmsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet5.dwardDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet5.dwardRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet5.dwardRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ex1.bgroup7DataSet5">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet5TableAdapters.dwardTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet10.blockedDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet10.blockedRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet10.blockedRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ex1.bgroup7DataSet10">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet10TableAdapters.blockedTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet.employeeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet.employeeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet.employeeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ex1.bgroup7DataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:ex1.bgroup7DataSetTableAdapters.employeeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet1.employeeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet1.employeeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet1.employeeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ex1.bgroup7DataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet1TableAdapters.employeeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet4.consultDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet4.consultRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet4.consultRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ex1.bgroup7DataSet4">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet4TableAdapters.consultTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet7.opDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet7.opRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet7.opRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ex1.bgroup7DataSet7">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:ex1.bgroup7DataSet7TableAdapters.opTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+</members>
+</doc>
